@@ -1,0 +1,7 @@
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m: In function '-[MKDiscountPickerViewController viewDidLoad]':
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m:33: warning: 'MKDiscountPickerViewController' may not respond to '-updateDiscountLabel'
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m:33: warning: (Messages without a matching method signature
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m:33: warning: will be assumed to return 'id' and accept
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m:33: warning: '...' as arguments.)
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m: In function '-[MKDiscountPickerViewController pickerView:didSelectRow:inComponent:]':
+/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKDiscountPickerViewController.m:62: warning: 'MKDiscountPickerViewController' may not respond to '-updateDiscountLabel'

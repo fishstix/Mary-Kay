@@ -1,0 +1,434 @@
+0,Eye,0,None
+0,Mineral Eye Color,0,Eye
+0,Eyesicles,0,Eye
+0,Eyeliner,0,Eye
+0,Brow Definer Pencil,0,Eye
+0,Mary Kay Foundations,0,None
+0,Full-Coverage Foundation,0,Mary Kay Foundations
+0,Medium-Coverage Foundation,0,Mary Kay Foundations
+0,Creme-to-Powder Foundation,0,Mary Kay Foundations
+0,Day Radiance® Cream Foundation,0,Mary Kay Foundations
+0,Tinted Moisturizer With Sunscreen SPF 20,0,Mary Kay Foundations
+0,Concealer/Powder,0,None
+0,Concealer,0,Concealer/Powder
+0,Facial Highlighting Pen,0,Concealer/Powder
+0,Sheer Mineral Pressed Powder,0,Concealer/Powder
+0,Loose Powder,0,Concealer/Powder
+0,Body,0,None
+0,Skin Care,0,None
+0,TimeWise® Anti-Aging,0,Skin Care
+0,Classic Basic Skin Care,0,Skin Care
+0,Velocity® Skin Care,0,Skin Care
+0,MKMen® Skin Care,0,Skin Care
+0,Customized Skin Care/SpecificNeeds,0,Skin Care
+0,Oil Control,0,Skin Care
+0,Lips,0,None
+0,Creme Lipstick,0,Lips
+0,Lip Liner,0,Lips
+0,Tinted Lip Balm Sunscreen SPF 15,0,Lips
+0,NouriShine® Lip Gloss,0,Lips
+0,Liquid Lip Color,0,Lips
+0,Color 101 Collections,0,None
+0,Fragrances,0,None
+0,Compacts/Brushes/Applicators/Bags,0,None
+0,Cheeks,0,None
+0,Mineral Cheek Color,0,Cheeks
+0,Mineral Bronzing Powder,0,Cheeks
+0,Mineral Highlighting Powder,0,Cheeks
+35083,TimeWise Body™ Targeted-Action® Toning Lotion,28,TimeWise® Anti-Aging
+32946,TimeWise Body™ Hand and Décolleté Cream Sunscreen SPF 15 (Over-the-counter drug product),18,TimeWise® Anti-Aging
+26940,TimeWise® 3-In-1 Cleanser (Normal/Dry),18,TimeWise® Anti-Aging
+26941,TimeWise® 3-In-1 Cleanser (Combination/Oily),18,TimeWise® Anti-Aging
+27914,TimeWise® 3-In-1 Cleansing Bar (with soap dish),18,TimeWise® Anti-Aging
+26925,TimeWise® Age-Fighting Moisturizer (Normal/Dry),22,TimeWise® Anti-Aging
+26926,TimeWise® Age-Fighting Moisturizer (Combination/Oily),22,TimeWise® Anti-Aging
+33255,TimeWise® Age-Fighting Moisturizer Sunscreen SPF 15,22,TimeWise® Anti-Aging
+26905,Day Solution Sunscreen SPF 25 (Over-the-counter drug product),30,TimeWise® Anti-Aging
+26919,TimeWise® Night Solution,30,TimeWise® Anti-Aging
+27715,TimeWise® Trial Miracle Set™: Normal/Dry,44,TimeWise® Anti-Aging
+27713,TimeWise® Trial Miracle Set™: Combination/Oily,44,TimeWise® Anti-Aging
+26901,TimeWise® Miracle Set™ (Normal/Dry),90,TimeWise® Anti-Aging
+26902,TimeWise® Miracle Set™ (Combination/Oily),90,TimeWise® Anti-Aging
+30037,TimeWise® Microdermabrasion Set,55,TimeWise® Anti-Aging
+29733,TimeWise® Microdermabrasion Step 1: Refine,30,TimeWise® Anti-Aging
+29735,TimeWise® Microdermabrasion Step 2: Replenish,25,TimeWise® Anti-Aging
+31103,TimeWise® Replenishing Serum+C,55,TimeWise® Anti-Aging
+27908,TimeWise® Firming Eye Cream,30,TimeWise® Anti-Aging
+29728,TimeWise® Age-Fighting Eye Cream,26,TimeWise® Anti-Aging
+29743,TimeWise® Age-Fighting Lip Primer,22,TimeWise® Anti-Aging
+29737,TimeWise® Targeted-Action® Eye Revitalizer,35,TimeWise® Anti-Aging
+27912,TimeWise® Targeted-Action® Line Reducer,40,TimeWise® Anti-Aging
+31174,TimeWise® Even Complexion Mask,20,TimeWise® Anti-Aging
+29730,TimeWise® Even Complexion Essence,35,TimeWise® Anti-Aging
+10451,TimeWise® Cellu-Shape® Contouring System,55,TimeWise® Anti-Aging
+9574,TimeWise® Cellu-Shape® Daytime Body Moisturizer,30,TimeWise® Anti-Aging
+9549,TimeWise® Cellu-Shape® Nighttime Body Gel,25,TimeWise® Anti-Aging
+132500,TimeWise® Visibly Fit™ Body Lotion,22,TimeWise® Anti-Aging
+900500,Gentle Cleansing Cream 1 (Dry),12,Classic Basic Skin Care
+105800,Creamy Cleanser 2 (Normal/Combination),12,Classic Basic Skin Care
+105900,Deep Cleanser 3 (Oily),12,Classic Basic Skin Care
+106100,Moisture Rich Mask 1 (Dry/Normal),14,Classic Basic Skin Care
+419100,Revitalizing Mask 2 (Combination/Oily),14,Classic Basic Skin Care
+347300,Clarifying Mask 3 (Blemish-Prone),14,Classic Basic Skin Care
+536400,Hydrating Freshener 1 (Dry),13,Classic Basic Skin Care
+567300,Purifying Freshener 2 (Normal/Combination/Oily),13,Classic Basic Skin Care
+106500,Blemish Control Toner 3 (Acne Medication),13,Classic Basic Skin Care
+106600,Enriched Moisturizer 1 (Dry),18,Classic Basic Skin Care
+106700,Balancing Moisturizer 2 (Normal/Combination),18,Classic Basic Skin Care
+106800,Oil Control Lotion 3 (Oily),18,Classic Basic Skin Care
+106800,Oil Control Lotion 3 (Oily),18,Oil Control
+1600,Velocity® Facial Cleanser,10,Velocity® Skin Care
+1500,Velocity® Lightweight Moisturizer,12,Velocity® Skin Care
+10334,MKMen® Face Bar,14,MKMen® Skin Care
+10336,MKMen® Shave Foam,10,MKMen® Skin Care
+10338,MKMen® Cooling After-Shave Gel,14,MKMen® Skin Care
+10332,MKMen® Moisturizer Sunscreen SPF 25,22,MKMen® Skin Care
+20104,MKMen® Body Spray,14,MKMen® Skin Care
+29739,Indulge® Soothing Eye Gel,15,Customized Skin Care/SpecificNeeds
+29726,Oil-Free Eye Makeup Remover,14,Customized Skin Care/SpecificNeeds
+31559,Satin Lips® Lip Balm,9.5,Customized Skin Care/SpecificNeeds
+31567,Satin Lips® Lip Mask,9.5,Customized Skin Care/SpecificNeeds
+33375,Satin Lips® Set,18,Customized Skin Care/SpecificNeeds
+31580,Acne Treatment Gel,7,Customized Skin Care/SpecificNeeds
+31580,Acne Treatment Gel,7,Customized Skin Care/SpecificNeeds
+13151,Beauty Blotters® Oil-Absorbing Tissues - pk./75,5,Customized Skin Care/SpecificNeeds
+27910,Extra Emollient Night Cream,13,Customized Skin Care/SpecificNeeds
+31541,Intense Moisturizing Cream (Dry Skin),30,Customized Skin Care/SpecificNeeds
+29741,Mary Kay® Facial Cleansing Cloths - pk./30,15,Customized Skin Care/SpecificNeeds
+31551,Oil-Free Hydrating Gel (Normal/Oily Skin),30,Customized Skin Care/SpecificNeeds
+31573,Oil Mattifier,15,Customized Skin Care/SpecificNeeds
+31483,Extra Emollient Cleansing Cream,9.5,Customized Skin Care/SpecificNeeds
+13151,Beauty Blotters® Oil-Absorbing Tissues - pk./75,5,Oil Control
+27910,Extra Emollient Night Cream,13,Moisturization
+31541,Intense Moisturizing Cream (Dry Skin),30,Moisturization
+31551,Oil-Free Hydrating Gel (Normal/Oily Skin),30,Moisturization
+31573,Oil Mattifier,15,Oil Control
+28020,Mary Kay® Mineral Powder Foundation: Ivory 0.5,18,Mineral Powder Foundation
+16886,Mary Kay® Mineral Powder Foundation: Ivory 1,18,Mineral Powder Foundation
+16887,Mary Kay® Mineral Powder Foundation: Ivory 2,18,Mineral Powder Foundation
+28022,Mary Kay® Mineral Powder Foundation: Beige 0.5,18,Mineral Powder Foundation
+16888,Mary Kay® Mineral Powder Foundation: Beige 1,18,Mineral Powder Foundation
+33376,Mary Kay® Mineral Powder Foundation: Beige 1.5,18,Mineral Powder Foundation
+16889,Mary Kay® Mineral Powder Foundation: Beige 2,18,Mineral Powder Foundation
+16890,Mary Kay® Mineral Powder Foundation: Bronze 1,18,Mineral Powder Foundation
+16891,Mary Kay® Mineral Powder Foundation: Bronze 2,18,Mineral Powder Foundation
+33377,Mary Kay® Mineral Powder Foundation: Bronze 3,18,Mineral Powder Foundation
+33378,Mary Kay® Mineral Powder Foundation: Bronze 4,18,Mineral Powder Foundation
+33379,Mary Kay® Mineral Powder Foundation: Bronze 5,18,Mineral Powder Foundation
+355200,Mary Kay® Medium-Coverage Foundation: Ivory 100,14,Medium-Coverage Foundation
+355100,Mary Kay® Medium-Coverage Foundation: Ivory 104,14,Medium-Coverage Foundation
+303600,Mary Kay® Medium-Coverage Foundation: Ivory 105,14,Medium-Coverage Foundation
+356000,Mary Kay® Medium-Coverage Foundation: Ivory 200,14,Medium-Coverage Foundation
+356800,Mary Kay® Medium-Coverage Foundation: Ivory 202,14,Medium-Coverage Foundation
+355300,Mary Kay® Medium-Coverage Foundation: Ivory 204,14,Medium-Coverage Foundation
+355800,Mary Kay® Medium-Coverage Foundation: Beige 300,14,Medium-Coverage Foundation
+355900,Mary Kay® Medium-Coverage Foundation: Beige 302,14,Medium-Coverage Foundation
+355700,Mary Kay® Medium-Coverage Foundation: Beige 304,14,Medium-Coverage Foundation
+355500,Mary Kay® Medium-Coverage Foundation: Beige 305,14,Medium-Coverage Foundation
+357000,Mary Kay® Medium-Coverage Foundation: Beige 400,14,Medium-Coverage Foundation
+357100,Mary Kay® Medium-Coverage Foundation: Beige 402,14,Medium-Coverage Foundation
+356900,Mary Kay® Medium-Coverage Foundation: Beige 404,14,Medium-Coverage Foundation
+357700,Mary Kay® Medium-Coverage Foundation: Bronze 500,14,Medium-Coverage Foundation
+357200,Mary Kay® Medium-Coverage Foundation: Bronze 504,14,Medium-Coverage Foundation
+357800,Mary Kay® Medium-Coverage Foundation: Bronze 507,14,Medium-Coverage Foundation
+361400,Mary Kay® Medium-Coverage Foundation: Bronze 600,14,Medium-Coverage Foundation
+358200,Mary Kay® Medium-Coverage Foundation: Bronze 607,14,Medium-Coverage Foundation
+364200,Mary Kay® Medium-Coverage Foundation: Bronze 708,14,Medium-Coverage Foundation
+364300,Mary Kay® Medium-Coverage Foundation: Bronze 808,14,Medium-Coverage Foundation
+366500,Mary Kay® Full-Coverage Foundation: Ivory 100,14,Full-Coverage Foundation
+365000,Mary Kay® Full-Coverage Foundation: Ivory 104,14,Full-Coverage Foundation
+364700,Mary Kay® Full-Coverage Foundation: Ivory 105,14,Full-Coverage Foundation
+367300,Mary Kay® Full-Coverage Foundation: Ivory 200,14,Full-Coverage Foundation
+368500,Mary Kay® Full-Coverage Foundation: Ivory 202,14,Full-Coverage Foundation
+366700,Mary Kay® Full-Coverage Foundation: Ivory 204,14,Full-Coverage Foundation
+367100,Mary Kay® Full-Coverage Foundation: Beige 300,14,Full-Coverage Foundation
+367200,Mary Kay® Full-Coverage Foundation: Beige 302,14,Full-Coverage Foundation
+367000,Mary Kay® Full-Coverage Foundation: Beige 304,14,Full-Coverage Foundation
+366900,Mary Kay® Full-Coverage Foundation: Beige 305,14,Full-Coverage Foundation
+367900,Mary Kay® Full-Coverage Foundation: Beige 400,14,Full-Coverage Foundation
+368300,Mary Kay® Full-Coverage Foundation: Beige 402,14,Full-Coverage Foundation
+367800,Mary Kay® Full-Coverage Foundation: Beige 404,14,Full-Coverage Foundation
+377000,Mary Kay® Full-Coverage Foundation: Bronze 500,14,Full-Coverage Foundation
+371400,Mary Kay® Full-Coverage Foundation: Bronze 504,14,Full-Coverage Foundation
+377900,Mary Kay® Full-Coverage Foundation: Bronze 507,14,Full-Coverage Foundation
+378800,Mary Kay® Full-Coverage Foundation: Bronze 600,14,Full-Coverage Foundation
+378700,Mary Kay® Full-Coverage Foundation: Bronze 607,14,Full-Coverage Foundation
+379000,Mary Kay® Full-Coverage Foundation: Bronze 708,14,Full-Coverage Foundation
+379100,Mary Kay® Full-Coverage Foundation: Bronze 808,14,Full-Coverage Foundation
+14695,Mary Kay® Creme-to-Powder Foundation: Ivory 0.5,14,Creme-to-Powder Foundation
+14696,Mary Kay® Creme-to-Powder Foundation: Ivory 1,14,Creme-to-Powder Foundation
+14697,Mary Kay® Creme-to-Powder Foundation: Ivory 2,14,Creme-to-Powder Foundation
+14698,Mary Kay® Creme-to-Powder Foundation: Beige 1,14,Creme-to-Powder Foundation
+14699,Mary Kay® Creme-to-Powder Foundation: Beige 2,14,Creme-to-Powder Foundation
+14701,Mary Kay® Creme-to-Powder Foundation: Beige 3,14,Creme-to-Powder Foundation
+14702,Mary Kay® Creme-to-Powder Foundation: Beige 4,14,Creme-to-Powder Foundation
+14705,Mary Kay® Creme-to-Powder Foundation: Bronze 0.5,14,Creme-to-Powder Foundation
+14703,Mary Kay® Creme-to-Powder Foundation: Bronze 1,14,Creme-to-Powder Foundation
+14704,Mary Kay® Creme-to-Powder Foundation: Bronze 2,14,Creme-to-Powder Foundation
+14681,Mary Kay® Day Radiance® Cream Foundation: Antique Ivory,16,Day Radiance® Cream Foundation
+14682,Mary Kay® Day Radiance® Cream Foundation: Blush Ivory,16,Day Radiance® Cream Foundation
+14683,Mary Kay® Day Radiance® Cream Foundation: Buffed Ivory,16,Day Radiance® Cream Foundation
+14684,Mary Kay® Day Radiance® Cream Foundation: Bisque Ivory,16,Day Radiance® Cream Foundation
+14685,Mary Kay® Day Radiance® Cream Foundation: Fawn Beige,16,Day Radiance® Cream Foundation
+14686,Mary Kay® Day Radiance® Cream Foundation: Delicate Beige,16,Day Radiance® Cream Foundation
+14687,Mary Kay® Day Radiance® Cream Foundation: True Beige,16,Day Radiance® Cream Foundation
+14688,Mary Kay® Day Radiance® Cream Foundation: Almond Beige,16,Day Radiance® Cream Foundation
+14690,Mary Kay® Day Radiance® Cream Foundation: Mocha Bronze,16,Day Radiance® Cream Foundation
+14691,Mary Kay® Day Radiance® Cream Foundation: Walnut Bronze,16,Day Radiance® Cream Foundation
+14692,Mary Kay® Day Radiance® Cream Foundation: Rich Bronze,16,Day Radiance® Cream Foundation
+31511,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Ivory 1,18,Tinted Moisturizer With Sunscreen SPF 20
+31512,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Ivory 2,18,Tinted Moisturizer With Sunscreen SPF 21
+31513,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Beige 1,18,Tinted Moisturizer With Sunscreen SPF 22
+31514,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Beige 2,18,Tinted Moisturizer With Sunscreen SPF 23
+31515,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Bronze 1,18,Tinted Moisturizer With Sunscreen SPF 24
+7502,Mary Kay® Tinted Moisturizer With Sunscreen SPF 20: Bronze 2,18,Tinted Moisturizer With Sunscreen SPF 25
+17362,Mary Kay® Compact,18,Compacts/Brushes/Applicators/Bags
+18587,Mary Kay® Compact Pro®,35,Compacts/Brushes/Applicators/Bags
+15263,Compact Cheek Brush,2.5,Compacts/Brushes/Applicators/Bags
+15262,Compact Powder Brush,4,Compacts/Brushes/Applicators/Bags
+15261,Cosmetic Sponges - pk./2,2.5,Compacts/Brushes/Applicators/Bags
+15264,"Eye Applicators (one eye sponge, one eye brush) - pk./2",2.5,Compacts/Brushes/Applicators/Bags
+15265,Retractable Lip Brush,4,Compacts/Brushes/Applicators/Bags
+27861,Mary Kay® Brow Tools,4,Compacts/Brushes/Applicators/Bags
+11251,Mary Kay® Brush Collection,48,Compacts/Brushes/Applicators/Bags
+17069,Mary Kay® Mineral Foundation Brush,10,Compacts/Brushes/Applicators/Bags
+34489,Travel Roll-Up Bag,30,Compacts/Brushes/Applicators/Bags
+23467,Mary Kay® Concealer Ivory 1,10,Concealer
+23468,Mary Kay® Concealer Ivory 2,10,Concealer
+23469,Mary Kay® Concealer Beige 1,10,Concealer
+23470,Mary Kay® Concealer Beige 2,10,Concealer
+23471,Mary Kay® Concealer Bronze 1,10,Concealer
+23472,Mary Kay® Concealer Bronze 2,10,Concealer
+27243,Mary Kay® Concealer Yellow,10,Concealer
+19019,Facial Highlighting Pen Shade 1,18,Facial Highlighting Pen
+19029,Facial Highlighting Pen Shade 2,18,Facial Highlighting Pen
+19031,Facial Highlighting Pen Shade 3,18,Facial Highlighting Pen
+19033,Facial Highlighting Pen Shade 4,18,Facial Highlighting Pen
+15135,Mary Kay® Sheer Mineral Pressed Powder: Ivory 1,16,Sheer Mineral Pressed Powder
+15136,Mary Kay® Sheer Mineral Pressed Powder: Ivory 2,16,Sheer Mineral Pressed Powder
+15137,Mary Kay® Sheer Mineral Pressed Powder: Beige 1,16,Sheer Mineral Pressed Powder
+15138,Mary Kay® Sheer Mineral Pressed Powder: Beige 2,16,Sheer Mineral Pressed Powder
+15139,Mary Kay® Sheer Mineral Pressed Powder: Bronze 1,16,Sheer Mineral Pressed Powder
+15140,Mary Kay® Sheer Mineral Pressed Powder: Bronze 2,16,Sheer Mineral Pressed Powder
+22167,Loose Powder Ivory 1,14,Loose Powder
+22168,Loose Powder Ivory 2,14,Loose Powder
+22169,Loose Powder Beige 1,14,Loose Powder
+22170,Loose Powder Beige 2,14,Loose Powder
+22171,Loose Powder Bronze 1,14,Loose Powder
+22172,Loose Powder Bronze 2,14,Loose Powder
+12968,Mary Kay® Mineral Cheek Color Berry Brown,10,Mineral Cheek Color
+12956,Mary Kay® Mineral Cheek Color Bold Berry,10,Mineral Cheek Color
+12983,Mary Kay® Mineral Cheek Color Cherry Blossom,10,Mineral Cheek Color
+12977,Mary Kay® Mineral Cheek Color Cinnamon Stick,10,Mineral Cheek Color
+12965,Mary Kay® Mineral Cheek Color: Golden Copper,10,Mineral Cheek Color
+12959,Mary Kay® Mineral Cheek Color Pink Petals,10,Mineral Cheek Color
+12974,Mary Kay® Mineral Cheek Color: Shy Blush,10,Mineral Cheek Color
+12950,Mary Kay® Mineral Cheek Color Sparkling Cider,10,Mineral Cheek Color
+12980,Mary Kay® Mineral Cheek Color Strawberry Cream,10,Mineral Cheek Color
+16243,Mary Kay® Mineral Cheek Color Sunny Spice,10,Mineral Cheek Color
+16167,Mary Kay® Mineral Bronzing Powder: Bronze Diva,12,Mineral Bronzing Powder
+16611,Mary Kay® Mineral Bronzing Powder: Canyon Gold,12,Mineral Bronzing Powder
+16610,Mary Kay® Mineral Bronzing Powder: Desert Sun,12,Mineral Bronzing Powder
+16165,Mary Kay® Mineral Bronzing Powder: Sandstone,12,Mineral Bronzing Powder
+16614,Mary Kay® Mineral Highlighting Powder: Pink Porcelain,12,Mineral Highlighting Powder
+16615,Mary Kay® Mineral Highlighting Powder: Pink Stardust,12,Mineral Highlighting Powder
+16960,Mary Kay® Eye Primer,12,Eye
+13008,Mary Kay® Mineral Eye Color Amber Blaze,6.5,Mineral Eye Color
+13050,Mary Kay® Mineral Eye Color Blue Metal,6.5,Mineral Eye Color
+13035,Mary Kay® Mineral Eye Color: Chocolate Kiss,6.5,Mineral Eye Color
+13038,Mary Kay® Mineral Eye Color Cinnabar,6.5,Mineral Eye Color
+13026,Mary Kay® Mineral Eye Color Coal,6.5,Mineral Eye Color
+13044,Mary Kay® Mineral Eye Color Crystalline,6.5,Mineral Eye Color
+13056,Mary Kay® Mineral Eye Color Denim Frost,6.5,Mineral Eye Color
+13053,Mary Kay® Mineral Eye Color Dusty Lilac,6.5,Mineral Eye Color
+13047,Mary Kay® Mineral Eye Color Espresso,6.5,Mineral Eye Color
+13029,Mary Kay® Mineral Eye Color Golden Olive,6.5,Mineral Eye Color
+13080,Mary Kay® Mineral Eye Color: Granite,6.5,Mineral Eye Color
+13068,Mary Kay® Mineral Eye Color Hazelnut,6.5,Mineral Eye Color
+13032,Mary Kay® Mineral Eye Color: Honey Spice,6.5,Mineral Eye Color
+13095,Mary Kay® Mineral Eye Color Iris,6.5,Mineral Eye Color
+13062,Mary Kay® Mineral Eye Color Ivy Garden,6.5,Mineral Eye Color
+13005,Mary Kay® Mineral Eye Color Lemongrass,6.5,Mineral Eye Color
+13083,Mary Kay® Mineral Eye Color Moonstone,6.5,Mineral Eye Color
+13089,Mary Kay® Mineral Eye Color: Navy Blue,6.5,Mineral Eye Color
+13074,Mary Kay® Mineral Eye Color Precious Pink,6.5,Mineral Eye Color
+13092,Mary Kay® Mineral Eye Color Raisin,6.5,Mineral Eye Color
+13065,Mary Kay® Mineral Eye Color: Sienna,6.5,Mineral Eye Color
+13023,Mary Kay® Mineral Eye Color Silky Caramel,6.5,Mineral Eye Color
+16065,Mary Kay® Mineral Eye Color Spun Silk,6.5,Mineral Eye Color
+13011,Mary Kay® Mineral Eye Color Steel,6.5,Mineral Eye Color
+13020,Mary Kay® Mineral Eye Color: Sweet Cream,6.5,Mineral Eye Color
+13017,Mary Kay® Mineral Eye Color Sweet Pink,6.5,Mineral Eye Color
+13101,Mary Kay® Mineral Eye Color Sweet Plum,6.5,Mineral Eye Color
+16071,Mary Kay® Mineral Eye Color Vintage Gold,6.5,Mineral Eye Color
+18044,Mary Kay® Eyesicles® Eye Color Island Bronze,10,Eyesicles
+18045,Mary Kay® Eyesicles® Eye Color Vanilla,10,Eyesicles
+17632,Mary Kay® Eyeliner Amethyst,10,Eyeliner
+17622,Mary Kay® Eyeliner: Black,10,Eyeliner
+17624,Mary Kay® Eyeliner: Bronze,10,Eyeliner
+17626,Mary Kay® Eyeliner Deep Brown,10,Eyeliner
+17630,Mary Kay® Eyeliner Navy,10,Eyeliner
+17628,Mary Kay® Eyeliner: Olive,10,Eyeliner
+17634,Mary Kay® Eyeliner: Steely,10,Eyeliner
+17636,Mary Kay® Eyeliner Taupe,10,Eyeliner
+17587,Mary Kay® Liquid Eyeliner: Black,11,Eyeliner
+17657,Mary Kay® Ultimate Mascara™: Black,15,Mascara
+17658,Mary Kay® Ultimate Mascara™: Black Brown,15,Mascara
+17659,Mary Kay® Lash Lengthening Mascara™ Black,10,Mascara
+17660,Mary Kay® Lash Lengthening Mascara™ Black Brown,10,Mascara
+17683,Mary Kay® Waterproof Mascara Black,10,Mascara
+17684,Mary Kay® Waterproof Mascara Black Brown,10,Mascara
+27859,Mary Kay® Brow Gel,10,Brow Gel
+34734,Brow Definer Pencil: Blonde,10,Brow Definer Pencil
+34731,Brow Definer Pencil: Brunette,10,Brow Definer Pencil
+34730,Brow Definer Pencil: Classic Blonde,10,Brow Definer Pencil
+34733,Brow Definer Pencil: Soft Auburn,10,Brow Definer Pencil
+34732,Brow Definer Pencil: Soft Black,10,Brow Definer Pencil
+14719,Mary Kay® Lip Liner: Cappuccino,10,Lip Liner
+14720,Mary Kay® Lip Liner: Chocolate,10,Lip Liner
+14730,Mary Kay® Lip Liner: Cinnamon,10,Lip Liner
+14721,Mary Kay® Lip Liner: Coral,10,Lip Liner
+14729,Mary Kay® Lip Liner: Dark Berry,10,Lip Liner
+14728,Mary Kay® Lip Liner: Dark Chocolate,10,Lip Liner
+14722,Mary Kay® Lip Liner: Dusty Pink,10,Lip Liner
+14723,Mary Kay® Lip Liner: Neutral,10,Lip Liner
+14724,Mary Kay® Lip Liner: Pink,10,Lip Liner
+14725,Mary Kay® Lip Liner: Plum,10,Lip Liner
+14726,Mary Kay® Lip Liner: Raspberry,10,Lip Liner
+22825,Mary Kay® Creme Lipstick Amber Glow,13,Creme Lipstick
+22821,Mary Kay® Creme Lipstick Amber Suede,13,Creme Lipstick
+22827,Mary Kay® Creme Lipstick Apple Berry,13,Creme Lipstick
+22835,Mary Kay® Creme Lipstick Apricot Glaze,13,Creme Lipstick
+22829,Mary Kay® Creme Lipstick Berry Kiss,13,Creme Lipstick
+22826,Mary Kay® Creme Lipstick Black Cherry,13,Creme Lipstick
+22852,Mary Kay® Creme Lipstick Bronzed,13,Creme Lipstick
+22823,Mary Kay® Creme Lipstick Downtown Brown,13,Creme Lipstick
+22843,Mary Kay® Creme Lipstick Dusty Rose,13,Creme Lipstick
+22837,Mary Kay® Creme Lipstick Frosted Rose,13,Creme Lipstick
+22833,Mary Kay® Creme Lipstick Garnetfrost,13,Creme Lipstick
+22822,Mary Kay® Creme Lipstick: - Gingerbread,13,Creme Lipstick
+22834,Mary Kay® Creme Lipstick Golden,13,Creme Lipstick
+22846,Mary Kay® Creme Lipstick Hibiscus,13,Creme Lipstick
+22832,Mary Kay® Creme Lipstick Mocha Freeze,13,Creme Lipstick
+22851,Mary Kay® Creme Lipstick Nutmeg,13,Creme Lipstick
+22844,Mary Kay® Creme Lipstick Paradise Pink,13,Creme Lipstick
+22842,Mary Kay® Creme Lipstick Pink Melon,13,Creme Lipstick
+22845,Mary Kay® Creme Lipstick Pink Satin,13,Creme Lipstick
+22831,Mary Kay® Creme Lipstick Pink Shimmer,13,Creme Lipstick
+22836,Mary Kay® Creme Lipstick Raisinberry,13,Creme Lipstick
+22850,Mary Kay® Creme Lipstick Red,13,Creme Lipstick
+22824,Mary Kay® Creme Lipstick Rich Cocoa,13,Creme Lipstick
+22853,Mary Kay® Creme Lipstick Rich Fig,13,Creme Lipstick
+22830,Mary Kay® Creme Lipstick Sheer Blush,13,Creme Lipstick
+22839,Mary Kay® Creme Lipstick Shell,13,Creme Lipstick
+22849,Mary Kay® Creme Lipstick Sunburst,13,Creme Lipstick
+22847,Mary Kay® Creme Lipstick Sunset,13,Creme Lipstick
+22848,Mary Kay® Creme Lipstick Sweet Nectar,13,Creme Lipstick
+22840,Mary Kay® Creme Lipstick Tanned,13,Creme Lipstick
+22838,Mary Kay® Creme Lipstick Toffee,13,Creme Lipstick
+22828,Mary Kay® Creme Lipstick Whipped Berries,13,Creme Lipstick
+25395,Mary Kay® Tinted Lip Balm Sunscreen SPF 15: Apricot,13,Tinted Lip Balm Sunscreen SPF 15
+25748,Mary Kay® Tinted Lip Balm Sunscreen SPF 15: Blush,13,Tinted Lip Balm Sunscreen SPF 16
+25749,Mary Kay® Tinted Lip Balm Sunscreen SPF 15: Natural,13,Tinted Lip Balm Sunscreen SPF 17
+25396,Mary Kay® Tinted Lip Balm Sunscreen SPF 15: Poppy,13,Tinted Lip Balm Sunscreen SPF 18
+25393,Mary Kay® Tinted Lip Balm Sunscreen SPF 15: Rose,13,Tinted Lip Balm Sunscreen SPF 19
+16978,Mary Kay® NouriShine® Lip Gloss: Beach Bronze,13,NouriShine® Lip Gloss
+17036,Mary Kay® NouriShine® Lip Gloss: Berry Sparkle,13,NouriShine® Lip Gloss
+16984,Mary Kay® NouriShine® Lip Gloss: Bronze Bliss,13,NouriShine® Lip Gloss
+17037,Mary Kay® NouriShine® Lip Gloss: Coral Rose,13,NouriShine® Lip Gloss
+16987,Mary Kay® NouriShine® Lip Gloss: Cream & Sugar,13,NouriShine® Lip Gloss
+31679,Mary Kay® NouriShine® Lip Gloss: Fancy Nancy,13,NouriShine® Lip Gloss
+17038,Mary Kay® NouriShine® Lip Gloss: Gold Rush,13,NouriShine® Lip Gloss
+17039,Mary Kay® NouriShine® Lip Gloss: Melon Sorbet,13,NouriShine® Lip Gloss
+16963,Mary Kay® NouriShine® Lip Gloss: Pink Diamonds,13,NouriShine® Lip Gloss
+16966,Mary Kay® NouriShine® Lip Gloss: Starry,13,NouriShine® Lip Gloss
+16969,Mary Kay® NouriShine® Lip Gloss: Sugarberry,13,NouriShine® Lip Gloss
+16972,Mary Kay® NouriShine® Lip Gloss: Sweet Raisin,13,NouriShine® Lip Gloss
+32221,Color Collections - Color Card Look: Berries,113.5,Color 101 Collections
+32222,Color Collections - Color Card Look: Chocolates,113.5,Color 101 Collections
+32223,Color Collections - Color Card Look: Metals,113.5,Color 101 Collections
+26252,Color 101 Collections Neutrals,113.5,Color 101 Collections
+32224,Color Collections - Color Card Look: Pinks,113.5,Color 101 Collections
+32220,Color Collections - Color Card Look: Reds,113.5,Color 101 Collections
+21741,Color 101 Collections: Tawnies,113.5,Color 101 Collections
+11462,Mary Kay® Loofah Body Cleanser: Lotus & Bamboo,16,Body Care
+11460,Mary Kay® Loofah Body Cleanser: Red Tea & Fig,16,Body Care
+23290,Mary Kay® Body Care Collection Shower Gel Lotus & Bamboo,14,Body Care
+23291,Mary Kay® Body Care Collection Shower Gel Red Tea & Fig,14,Body Care
+11410,Mary Kay® Nourishing Body Lotion: Lotus & Bamboo,16,Body Care
+11405,Mary Kay® Nourishing Body Lotion: Red Tea & Fig,16,Body Care
+11443,Mary Kay® Deo Body Spritzer: Lotus & Bamboo,18,Body Care
+11437,Mary Kay® Deo Body Spritzer: Red Tea & Fig,18,Body Care
+7441,Mary Kay® 2-In-1 Body Wash & Shave,14,Body Care
+7506,Mary Kay® Hydrating Lotion,14,Body Care
+14096,Mint Bliss™ Energizing Lotion for Feet & Legs,10,Body Care
+32362,Fragrance-Free Satin Hands® Pampering Set (Includes Satin Hands® Satin Smoothie® Hand Scrub - Hand Softener and Satin Hands® Hand Cream in a gender-neutral bag),34,Body Care
+31832,Fragrance-Free Satin Hands® Hand Cream,10,Body Care
+14094,Satin Hands® Hand Cream,8,Body Care
+14095,Satin Hands® Satin Smoothie® Hand Scrub,15,Body Care
+14082,Satin Hands® Pampering Set,30,Body Care
+10349,Mary Kay® SPF 30 Sunscreen,14,Body Care
+6948,Mary Kay® Lip Protector Sunscreen SPF 15,7.5,Lips
+10340,Mary Kay® After-Sun Replenishing Gel,12,Body Care
+17870,Mary Kay® Subtle Tanning Lotion,16,Body Care
+20031,Mary Kay® Women’s Eau de Toilette Fragrance: Exotic Passionfruit™,25,Fragrances
+20029,Mary Kay® Women’s Eau de Toilette Fragrance: Simply Cotton™,25,Fragrances
+20030,Mary Kay® Women’s Eau de Toilette Fragrance: Sparkling Honeysuckle™,25,Fragrances
+20028,Mary Kay® Women’s Eau de Toilette Fragrance: Warm Amber™,25,Fragrances
+23198,Mary Kay® Women’s Eau de Toilette Body Lotion: Exotic Passionfruit™,15,Fragrances
+23184,Mary Kay® Women’s Eau de Toilette Body Lotion: Simply Cotton™,15,Fragrances
+23191,Mary Kay® Women’s Eau de Toilette Body Lotion: Sparkling Honeysuckle™,15,Fragrances
+23176,Mary Kay® Women’s Eau de Toilette Body Lotion: Warm Amber™,15,Fragrances
+28994,Mary Kay® Eau de Toilette Shower Gel: Exotic Passionfruit™,15,Fragrances
+28992,Mary Kay® Eau de Toilette Shower Gel: Simply Cotton™,15,Fragrances
+28998,Mary Kay® Eau de Toilette Shower Gel: Sparkling Honeysuckle™,15,Fragrances
+28996,Mary Kay® Eau de Toilette Shower Gel: Warm Amber™,15,Fragrances
+29021,Mary Kay® Eau de Toilette Sugar Scrub: Exotic Passionfruit™,15,Fragrances
+29019,Mary Kay® Eau de Toilette Sugar Scrub: Simply Cotton™,15,Fragrances
+29025,Mary Kay® Eau de Toilette Sugar Scrub: Sparkling Honeysuckle™,15,Fragrances
+29023,Mary Kay® Eau de Toilette Sugar Scrub: Warm Amber™,15,Fragrances
+7415,Affection® Eau de Parfum,50,Fragrances
+192900,Belara® Eau de Parfum,34,Fragrances
+12512,Bella Belara® Eau de Parfum,34,Fragrances
+397300,ELIGE® Eau de Parfum,40,Fragrances
+166700,journey® Eau de Parfum,36,Fragrances
+168700,Velocity® Eau de Parfum,28,Fragrances
+28783,Domain® Cologne Spray,34,Fragrances
+12494,MK High Intensity™ Cologne Spray,38,Fragrances
+250700,Tribute® for Men Spray Cologne,25,Fragrances
+501700,Velocity® for Him Cologne,28,Fragrances
+31476,Advanced Moisture Renewal® Treatment Cream,19,Customized Skin Care/SpecificNeeds
+34039,Mary Kay® Liquid Lip Color: Cherry Coffee,13,Liquid Lip Color
+34042,Mary Kay® Liquid Lip Color: Chocoholic,13,Liquid Lip Color
+30422,Mary Kay® Liquid Lip Color: Malted,13,Liquid Lip Color
+30424,Mary Kay® Liquid Lip Color: Raspberry Ice,13,Liquid Lip Color
+34043,Mary Kay® Liquid Lip Color: Royal Plum,13,Liquid Lip Color
+30425,Mary Kay® Liquid Lip Color: Sherbet,13,Liquid Lip Color
+32361,Peach Satin Hands® Pampering Set,34,Body Care
+31827,Peach Satin Hands® Hand Cream,10,Body Care
+33691,Mary Kay® Women's Eau de Toilette Collection:Forever Orchid™ Fragrance,25,Fragrances
+33660,Mary Kay® Women's Eau de Toilette Collection: Forever Orchid™ Body Lotion,15,Fragrances
+33654,Mary Kay® Women's Eau de Toilette Collection: Forever Orchid™ Shower Gel,15,Fragrances
+33666,Mary Kay® Women's Eau de Toilette Collection: Forever Orchid™ Sugar Scrub,15,Fragrances
+27588,Mary Kay® Creme Lipstick: Blaze,13,Creme Lipstick
+27587,Mary Kay® Creme Lipstick: Boysenberry,13,Creme Lipstick
+27584,Mary Kay® Creme Lipstick: Copper Star,13,Creme Lipstick
+27586,Mary Kay® Creme Lipstick: Hot Mocha,13,Creme Lipstick
+27589,Mary Kay® Creme Lipstick: Icy Peach,13,Creme Lipstick
+27585,Mary Kay® Creme Lipstick: Maple,13,Creme Lipstick
+33406,Mary Kay® Creme Lipstick: Midnight Red,13,Creme Lipstick
+27583,Mary Kay® Creme Lipstick: Pink Passion,13,Creme Lipstick
+35993,Mary Kay® Creme Lipstick: Sunlit Sand,13,Creme Lipstick
+35989,Mary Kay® Creme Lipstick: Sunny Citrus,13,Creme Lipstick
+35544,Mary Kay® Creme Lipstick: Whisper,13,Creme Lipstick
+26294,Mary Kay® Mineral Eye Color: Almond,6.5,Mineral Eye Color
+30111,Mary Kay® Mineral Eye Color: Azure,6.5,Mineral Eye Color
+28589,Mary Kay® Mineral Eye Color: Black Pearl,6.5,Mineral Eye Color
+30105,Mary Kay® Mineral Eye Color: Copper Glow,6.5,Mineral Eye Color
+30110,Mary Kay® Mineral Eye Color: Emerald,6.5,Mineral Eye Color
+30107,Mary Kay® Mineral Eye Color: Lavender Fog,6.5,Mineral Eye Color
+28588,Mary Kay® Mineral Eye Color: Midnight Star,6.5,Mineral Eye Color
+30106,Mary Kay® Mineral Eye Color: Peacock Blue,6.5,Mineral Eye Color
+26297,Mary Kay® Mineral Eye Color: Silver Satin,6.5,Mineral Eye Color
+26292,Mary Kay® Mineral Eye Color: White Lily,6.5,Mineral Eye Color
+26286,Mary Kay® Mineral Cheek Color: Citrus Bloom,10,Mineral Cheek Color

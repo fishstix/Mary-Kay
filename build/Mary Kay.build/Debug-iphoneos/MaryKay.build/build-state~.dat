@@ -1,0 +1,931 @@
+TMaryKay
+v7
+r0
+t290826461.142884
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MaryKay.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/Info.plist" Info.plist
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib"
+cCopyPNGFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png" ../mk_icon.png
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib"
+cCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib"
+cProcessPCH /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch.gch Mary_Kay_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/main.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/Mary_KayAppDelegate.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProduct.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClient.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKParty.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKSettingsViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPurchase.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyGuestListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay" normal armv6
+cGenerateDSYMFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app.dSYM" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay"
+cProcessProductPackaging "/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision"
+cTouch "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent"
+cCodeSign "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/../mk_icon.png
+c000000004A9032A50000000000000B51
+t1250964133
+s2897
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.h
+c000000004ABE740500000000000002CF
+t1253995525
+s719
+i<Foundation/Foundation.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m
+c000000004ABE756C0000000000000226
+t1253995884
+s550
+i"MKClient.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.h
+c000000004ABE385F0000000000000226
+t1253980255
+s550
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m
+c000000004ABE769F0000000000000C20
+t1253996191
+s3104
+i"MKClientListViewController.h"
+i"Mary_KayAppDelegate.h"
+i"MKClient.h"
+i"MKClientViewController.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.h
+c000000004ABE363900000000000000D7
+t1253979705
+s215
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m
+c000000004ABE362200000000000000DF
+t1253979682
+s223
+i"MKClientNavigation.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.h
+c000000004ABE74D400000000000002F9
+t1253995732
+s761
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m
+c000000004ABE75760000000000000638
+t1253995894
+s1592
+i"MKClientViewController.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.h
+c000000004ABE6477000000000000023A
+t1253991543
+s570
+i<Foundation/Foundation.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m
+c000000004ABE63FC00000000000001A9
+t1253991420
+s425
+i"MKParty.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.h
+c000000004ABE7D7900000000000001F3
+t1253997945
+s499
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m
+c000000004ABF895B0000000000000511
+t1254066523
+s1297
+i"MKPartyGuestListViewController.h"
+i"Mary_KayAppDelegate.h"
+i"MKParty.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.h
+c000000004ABE47E6000000000000021E
+t1253984230
+s542
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m
+c000000004AD0DDAF00000000000008A1
+t1255202223
+s2209
+i"MKPartyListViewController.h"
+i"Mary_KayAppDelegate.h"
+i"MKParty.h"
+i"MKPartyViewController.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.h
+c000000004ABE466000000000000000F9
+t1253983840
+s249
+i<Foundation/Foundation.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m
+c000000004ABE465500000000000000DC
+t1253983829
+s220
+i"MKPartyNavigation.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.h
+c000000004AD0DCC100000000000003AC
+t1255201985
+s940
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m
+c000000004AD0DE9E000000000000064B
+t1255202462
+s1611
+i"MKPartyViewController.h"
+i"MKParty.h"
+i"MKClient.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.h
+c000000004A9051AC00000000000001E0
+t1250972076
+s480
+i<Foundation/Foundation.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m
+c000000004A9051B90000000000000181
+t1250972089
+s385
+i"MKProduct.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.h
+c000000004ABE31B6000000000000022F
+t1253978550
+s559
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m
+c000000004ABE3A140000000000001097
+t1253980692
+s4247
+i"MKProductListViewController.h"
+i"MKProductViewController.h"
+i"MKProductNavigation.h"
+i"Mary_KayAppDelegate.h"
+i"MKProduct.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.h
+c000000004AE3DD7F00000000000000DA
+t1256447359
+s218
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m
+c000000004AE4A7F700000000000000E1
+t1256499191
+s225
+i"MKProductNavigation.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.h
+c000000004A90516400000000000001D0
+t1250972004
+s464
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m
+c000000004A90517F0000000000000583
+t1250972031
+s1411
+i"MKProductViewController.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.h
+c000000004ABE7E9E00000000000001BF
+t1253998238
+s447
+i<Foundation/Foundation.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m
+c000000004ABE7CD6000000000000015C
+t1253997782
+s348
+i"MKPurchase.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.h
+c000000004ABE6B1F00000000000000F7
+t1253993247
+s247
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m
+c000000004ABE6B1F00000000000005FF
+t1253993247
+s1535
+i"MKSettingsViewController.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.h
+c000000004ABE472C00000000000004AC
+t1253984044
+s1196
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m
+c000000004AE4A80C0000000000000AC0
+t1256499212
+s2752
+i"Mary_KayAppDelegate.h"
+i"MKProduct.h"
+i"MKClient.h"
+i"MKParty.h"
+i"MKProductNavigation.h"
+i"MKClientNavigation.h"
+i"MKPartyNavigation.h"
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib
+c000000004ABE3FD50000000000001F77
+t1253982165
+s8055
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib
+c000000004ABE76BE0000000000003DDE
+t1253996222
+s15838
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib
+c000000004A916A73000000000000304D
+t1251043955
+s12365
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib
+c000000004ABE49620000000000001F70
+t1253984610
+s8048
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib
+c000000004ABF8E330000000000002E37
+t1254067763
+s11831
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib
+c000000004ABDDA1B0000000000001F86
+t1253956123
+s8070
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib
+c000000004ABE356F00000000000027A6
+t1253979503
+s10150
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib
+c000000004BA571460000000000001FF4
+t1269133638
+s8180
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib
+c000000004AD0DF4B000000000000646F
+t1255202635
+s25711
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Mary_Kay_Prefix.pch
+c000000004A904AFE00000000000000B9
+t1250970366
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app
+t1269133661
+s646
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app.dSYM
+t1269133660
+s102
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/Info.plist
+t1269133653
+s694
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKClientListView.nib
+t1269133656
+s1500
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKClientView.nib
+t1269133657
+s3700
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKHomeVIewController.nib
+t1269133655
+s3165
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKPartyListView.nib
+t1269133657
+s1500
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKPartyView.nib
+t1269133657
+s2308
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKProductListView.nib
+t1269133656
+s1501
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKProductView.nib
+t1269133656
+s2714
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKSettingsView.nib
+t1269133657
+s1718
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MainWindow.nib
+t1269133655
+s4432
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay
+t1269133660
+s68048
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/PkgInfo
+t1269133653
+s8
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/ResourceRules.plist
+t1269133653
+s485
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision
+t1269133660
+s7170
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png
+t1269133653
+s2757
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent
+t1269133660
+s320
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClient.o
+t1269133658
+s12764
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientListViewController.o
+t1269133659
+s52172
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientNavigation.o
+t1269133659
+s5376
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientViewController.o
+t1269133659
+s35668
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKParty.o
+t1269133658
+s10624
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyGuestListViewController.o
+t1269133659
+s39792
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyListViewController.o
+t1269133659
+s49424
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyNavigation.o
+t1269133659
+s5364
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyViewController.o
+t1269133659
+s43456
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProduct.o
+t1269133658
+s9524
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductListViewController.o
+t1269133658
+s51820
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductNavigation.o
+t1269133659
+s5384
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductViewController.o
+t1269133658
+s35036
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPurchase.o
+t1269133659
+s8564
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKSettingsViewController.o
+t1269133659
+s29624
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MaryKay.LinkFileList
+c000000004BA57155000000000000094F
+t1269133653
+s2383
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/Mary_KayAppDelegate.o
+t1269133658
+s53536
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/main.o
+t1269133658
+s6464
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m
+c000000004A904AFE000000000000016C
+t1250970366
+s364
+i<UIKit/UIKit.h>
+
+N/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision
+c000000004B81C18D0000000000001C02
+t1266794893
+s7170
+
+N/var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch.gch
+t1269133339
+s8388792
+
+NInfo.plist
+c000000004A904BE40000000000000391
+t1250970596
+s913
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290826453#290826453#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"
+s290826460.362579
+e290826461.142691
+r1
+xCodeSign
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/MaryKay.app290826460#290826461#0(0"0(0#0#80"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app4300911832#714"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Charles Fisher (34DN757Z32)" "--resource-rules=/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/ResourceRules.plist" --entitlements "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClient.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.760384
+e290826458.836371
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClient.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m290826458#290826458#0(0"0(0#0#66"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m4300911832#1874"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClient.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClient.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.904462
+e290826459.026691
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientListViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m: In function '-[MKClientListViewController tableView:cellForRowAtIndexPath:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:47: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m: At top level:
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:96: warning: property 'clientsTableView' requires method '-clientsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:96: warning: property 'clientsTableView' requires the method 'setClientsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@92"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m290826458#290826459#0(1030"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m: In function '-[MKClientListViewController tableView:cellForRowAtIndexPath:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:47: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m: At top level:/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:96: warning: property 'clientsTableView' requires method '-clientsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m:96: warning: property 'clientsTableView' requires the method 'setClientsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@182"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)290826458#164#281#0(6@84"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m275688991#47#0#47#0#33"'*' is deprecated (declared at *)0(23@13"At top level:290826458#445#100#0(6@84"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m275688991#0#0#0#0#0"0(22@140"Property 'clientsTableView' requires method '-clientsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation290826458#545#239#0(6@84"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m275688991#96#0#96#0#0"0(22@147"Property 'clientsTableView' requires the method 'setClientsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation290826458#784#246#0(6@84"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m275688991#96#0#96#0#0"0(0#0#84"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m4300911832#1910"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientListViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientListViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.076462
+e290826459.148165
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientNavigation.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m290826459#290826459#0(0"0(0#0#76"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m4300911832#1894"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientNavigation.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientNavigation.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.148307
+e290826459.229574
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m290826459#290826459#0(0"0(0#0#80"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m4300911832#1902"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKClientViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKClientViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKParty.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.836516
+e290826458.904041
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKParty.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m: In function '-[MKParty init:guests:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:19: warning: local declaration of 'host' hides instance variable
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: local declaration of 'host' hides instance variable
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: no '-address' method found
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: (Messages without a matching method signature
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: will be assumed to return 'id' and accept
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: '...' as arguments.)
+lSLF07#2@73"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m290826458#290826458#0(820"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m: In function '-[MKParty init:guests:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:19: warning: local declaration of 'host' hides instance variable/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: local declaration of 'host' hides instance variable/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: no '-address' method found/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: (Messages without a matching method signature/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: will be assumed to return 'id' and accept/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m:20: warning: '...' as arguments.)4(22@51"Local declaration of 'host' hides instance variable290826458#106#131#0(6@65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m275684220#19#0#19#0#0"0(22@51"Local declaration of 'host' hides instance variable290826458#237#131#0(6@65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m275684220#20#0#20#0#0"0(22@26"No '-address' method found290826458#368#106#0(6@65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m275684220#20#0#20#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)290826458#474#125#0(6@65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m275684220#20#0#20#0#0"0(0#0#65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m4300911832#1872"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKParty.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKParty.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyGuestListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.578423
+e290826459.660769
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyGuestListViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m: In function '-[MKPartyGuestListViewController tableView:cellForRowAtIndexPath:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m:35: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m:33: warning: unused variable 'mk'
+lSLF07#2@96"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m290826459#290826459#0(580"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m: In function '-[MKPartyGuestListViewController tableView:cellForRowAtIndexPath:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m:35: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m:33: warning: unused variable 'mk'2(22@182"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)290826459#172#285#0(6@88"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m275759323#35#0#35#0#33"'*' is deprecated (declared at *)0(22@20"Unused variable 'mk'290826459#457#123#0(6@88"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m275759323#33#0#33#0#19"unused variable '*'0(0#0#88"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m4300911832#1918"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyGuestListViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyGuestListViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.278084
+e290826459.360529
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyListViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m: In function '-[MKPartyListViewController tableView:cellForRowAtIndexPath:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: no '-firstName' method found
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: (Messages without a matching method signature
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: will be assumed to return 'id' and accept
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: '...' as arguments.)
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m: At top level:
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:70: warning: property 'partiesTableView' requires method '-partiesTableView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:70: warning: property 'partiesTableView' requires the method 'setPartiesTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@91"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m290826459#290826459#0(1550"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m: In function '-[MKPartyListViewController tableView:cellForRowAtIndexPath:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: no '-firstName' method found/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: (Messages without a matching method signature/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: will be assumed to return 'id' and accept/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: '...' as arguments.)/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:43: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m: At top level:/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:70: warning: property 'partiesTableView' requires method '-partiesTableView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m:70: warning: property 'partiesTableView' requires the method 'setPartiesTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation6(22@28"No '-firstName' method found290826459#162#126#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#43#0#43#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)290826459#288#143#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#43#0#43#0#0"0(22@182"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)290826459#688#280#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#43#0#43#0#33"'*' is deprecated (declared at *)0(23@13"At top level:290826459#968#99#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#0#0#0#0#0"0(22@140"Property 'partiesTableView' requires method '-partiesTableView' to be defined - use @synthesize, @dynamic or provide a method implementation290826459#1067#238#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#70#0#70#0#0"0(22@147"Property 'partiesTableView' requires the method 'setPartiesTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation290826459#1305#245#0(6@83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m276895023#70#0#70#0#0"0(0#0#83"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m4300911832#1908"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyListViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyListViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.229709
+e290826459.277966
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyNavigation.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m290826459#290826459#0(0"0(0#0#75"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m4300911832#1892"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyNavigation.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyNavigation.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.360653
+e290826459.458794
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m: In function '-[MKPartyViewController initWithParty:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m:27: warning: control reaches end of non-void function
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m: In function '-[MKPartyViewController tableView:cellForRowAtIndexPath:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m:48: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+lSLF07#2@87"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m290826459#290826459#0(700"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m: In function '-[MKPartyViewController initWithParty:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m:27: warning: control reaches end of non-void function/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m: In function '-[MKPartyViewController tableView:cellForRowAtIndexPath:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m:48: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)2(22@40"Control reaches end of non-void function290826459#136#134#0(6@79"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m276895262#27#0#27#0#40"control reaches end of non-void function0(22@182"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)290826459#424#276#0(6@79"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m276895262#48#0#48#0#33"'*' is deprecated (declared at *)0(0#0#79"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m4300911832#1900"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPartyViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPartyViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProduct.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.702530
+e290826458.760258
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProduct.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m: In function '-[MKProduct initWithName:description:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m:18: warning: passing argument 1 of 'setPrice:' makes pointer from integer without a cast
+lSLF07#2@75"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m290826458#290826458#0(280"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m: In function '-[MKProduct initWithName:description:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m:18: warning: passing argument 1 of 'setPrice:' makes pointer from integer without a cast1(22@75"Passing argument 1 of 'setPrice:' makes pointer from integer without a cast290826458#123#157#0(6@67"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m272664889#18#0#18#0#0"0(0#0#67"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m4300911832#1876"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProduct.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProduct.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductListViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.512092
+e290826458.636225
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductListViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m: In function '-[MKProductListViewController tableView:cellForRowAtIndexPath:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:66: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m: At top level:
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:137: warning: property 'productsTableView' requires method '-productsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:137: warning: property 'productsTableView' requires the method 'setProductsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@93"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m290826458#290826458#0(1042"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m: In function '-[MKProductListViewController tableView:cellForRowAtIndexPath:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:66: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m: At top level:/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:137: warning: property 'productsTableView' requires method '-productsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m:137: warning: property 'productsTableView' requires the method 'setProductsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@182"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:200)290826458#166#282#0(6@85"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m275673492#66#0#66#0#33"'*' is deprecated (declared at *)0(23@13"At top level:290826458#448#101#0(6@85"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m275673492#0#0#0#0#0"0(22@142"Property 'productsTableView' requires method '-productsTableView' to be defined - use @synthesize, @dynamic or provide a method implementation290826458#549#243#0(6@85"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m275673492#137#0#137#0#0"0(22@149"Property 'productsTableView' requires the method 'setProductsTableView:' to be defined - use @synthesize, @dynamic or provide a method implementation290826458#792#250#0(6@85"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m275673492#137#0#137#0#0"0(0#0#85"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m4300911832#1912"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductListViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductListViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductNavigation.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.026824
+e290826459.076329
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductNavigation.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m290826459#290826459#0(0"0(0#0#77"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m4300911832#1896"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductNavigation.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductNavigation.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.636366
+e290826458.702403
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m290826458#290826458#0(0"0(0#0#81"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m4300911832#1904"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKProductViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKProductViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPurchase.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.517285
+e290826459.578288
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPurchase.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m: In function '-[MKPurchase init:party:]':
+o/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m:17: warning: local declaration of 'party' hides instance variable
+lSLF07#2@76"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m290826459#290826459#0(246"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m: In function '-[MKPurchase init:party:]':/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m:17: warning: local declaration of 'party' hides instance variable1(22@52"Local declaration of 'party' hides instance variable290826459#111#135#0(6@68"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m275690582#17#0#17#0#0"0(0#0#68"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m4300911832#1878"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKPurchase.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKPurchase.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKSettingsViewController.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826459.458917
+e290826459.517148
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKSettingsViewController.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m290826459#290826459#0(0"0(0#0#82"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m4300911832#1906"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/MKSettingsViewController.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MKSettingsViewController.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/Mary_KayAppDelegate.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826458.401559
+e290826458.511955
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/Mary_KayAppDelegate.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m290826458#290826458#0(0"0(0#0#77"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m4300911832#1896"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/Mary_KayAppDelegate.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/Mary_KayAppDelegate.o"0#
+
+CCompileC "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/main.o" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s290826457.747256
+e290826458.401427
+r1
+xCompileC
+xbuild/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/main.o
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m290826457#290826458#0(0"0(0#0#54"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m4300911832#1858"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-generated-files.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-own-target-headers.hmap" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-all-target-headers.hmap" -iquote "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay-project-headers.hmap" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/include" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources/armv6" "-I/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/DerivedSources" -include /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/main.m" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib"
+s290826456.637347
+e290826456.977678
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib
+lSLF07#2@31"CompileXIB MKClientListView.xib290826456#290826456#0(0"0(0#0#68"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib4300911832#513"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKClientListView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientListView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib"
+s290826456.702616
+e290826457.093453
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib
+lSLF07#2@27"CompileXIB MKClientView.xib290826456#290826457#0(0"0(0#0#64"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib4300911832#505"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKClientView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKClientView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib"
+s290826454.029050
+e290826455.807079
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib
+lSLF07#2@35"CompileXIB MKHomeVIewController.xib290826454#290826455#0(0"0(0#0#72"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib4300911832#521"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKHomeVIewController.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKHomeVIewController.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib"
+s290826456.977818
+e290826457.361440
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib
+lSLF07#2@30"CompileXIB MKPartyListView.xib290826456#290826457#0(0"0(0#0#67"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib4300911832#511"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKPartyListView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyListView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib"
+s290826457.093559
+e290826457.465686
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib
+lSLF07#2@26"CompileXIB MKPartyView.xib290826457#290826457#0(0"0(0#0#63"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib4300911832#503"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKPartyView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKPartyView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib"
+s290826455.764843
+e290826456.702503
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib
+lSLF07#2@32"CompileXIB MKProductListView.xib290826455#290826456#0(0"0(0#0#69"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib4300911832#515"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKProductListView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductListView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib"
+s290826455.807200
+e290826456.637178
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib
+lSLF07#2@28"CompileXIB MKProductView.xib290826455#290826456#0(0"0(0#0#65"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib4300911832#507"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKProductView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKProductView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib"
+s290826457.361718
+e290826457.747023
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib
+lSLF07#2@29"CompileXIB MKSettingsView.xib290826457#290826457#0(0"0(0#0#66"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib4300911832#509"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MKSettingsView.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib"0#
+
+CCompileXIB "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib"
+s290826453.537623
+e290826455.764624
+r1
+xCompileXIB
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290826453#290826455#0(0"0(0#0#62"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib4300911832#501"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MainWindow.nib" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib"0#
+
+CCopyPNGFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png" ../mk_icon.png
+s290826453.538572
+e290826454.028922
+r1
+xCopyPNGFile
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png
+x../mk_icon.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/MaryKay.app/mk_icon.png ../mk_icon.png290826453#290826454#0(0"0(0#0#62"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/../mk_icon.png4300911832#598"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/../mk_icon.png" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png"0#
+
+CCpResource build/Debug-iphoneos/MaryKay.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s290826453.490320
+e290826453.533876
+r1
+xCpResource
+xbuild/Debug-iphoneos/MaryKay.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist290826453#290826453#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4300911832#504"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"0#
+
+CGenerateDSYMFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app.dSYM" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay"
+s290826460.225958
+e290826460.300478
+r1
+xGenerateDSYMFile
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app.dSYM
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/MaryKay.app.dSYM build/Debug-iphoneos/MaryKay.app/MaryKay290826460#290826460#0(0"0(0#0#88"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay4300911832#395"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app.dSYM"0#
+
+CLd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay" normal armv6
+s290826459.660893
+e290826460.225827
+r1
+xLd
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay
+xnormal
+xarmv6
+lSLF07#2@93"Link /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay290826459#290826460#0(0"0(0#0#0"4300911832#884"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" "-F/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos" -filelist "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/Objects-normal/armv6/MaryKay.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/MaryKay"0#
+
+CProcessInfoPlistFile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/Info.plist" Info.plist
+s290826453.492147
+e290826453.537498
+r1
+xProcessInfoPlistFile
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist290826453#290826453#0(0"0(0#0#58"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Info.plist4300911832#598"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/ResourceRules.plist" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/Info.plist"0#
+
+CProcessPCH /var/folders/Cx/CxSPoDgXFFyVe1TMGMb2zE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Mary_Kay_Prefix-copbtvbiwwdthadwyqxghovwbuge/Mary_Kay_Prefix.pch.gch Mary_Kay_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision"
+s290826460.300599
+e290826460.339001
+r1
+xProcessProductPackaging
+x/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision" build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision290826460#290826460#0(0"0(0#0#105"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision4300911832#448"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/fishstix/Library/MobileDevice/Provisioning Profiles/C2E512C7-9E27-44A7-9C32-E1177D64D431.mobileprovision" -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent"
+s290826460.343261
+e290826460.362483
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent
+lSLF07#2@180"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent"290826460#290826460#0(0"0(0#0#111"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent4300911832#457"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Mary Kay.build/Debug-iphoneos/MaryKay.build/MaryKay.xcent"0#
+
+CTouch "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"
+s290826460.339132
+e290826460.343154
+r1
+xTouch
+x/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app
+lSLF07#2@86"Touch /Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app290826460#290826460#0(0"0(0#0#0"4300911832#286"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"0#
+
