@@ -909,7 +909,34 @@
 			};
 			name = Release;
 		};
-		72864DFC1241F12D00FE780C /* Distribution */ = {
+		7261591B131224AB00D71E8F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Charles Fisher";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A3B9B943-06BD-465F-8325-3058E03A887A";
+				SDKROOT = iphoneos4.3;
+			};
+			name = Distribution;
+		};
+		7261591C131224AB00D71E8F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_ENTITLEMENTS = "~/Documents/Job/Mary Kay/Mary Kay/Entitlements.plist";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Mary_Kay_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				PRODUCT_NAME = MaryKay;
+			};
+			name = Distribution;
+		};
+		72864DFC1241F12D00FE780C /* Distribution_old */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
@@ -918,14 +945,15 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
 				PROVISIONING_PROFILE = "A3B9B943-06BD-465F-8325-3058E03A887A";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A3B9B943-06BD-465F-8325-3058E03A887A";
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos4.3;
 			};
-			name = Distribution;
+			name = Distribution_old;
 		};
-		72864DFD1241F12D00FE780C /* Distribution */ = {
+		72864DFD1241F12D00FE780C /* Distribution_old */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -941,7 +969,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A3B9B943-06BD-465F-8325-3058E03A887A";
 				SDKROOT = iphoneos4.1;
 			};
-			name = Distribution;
+			name = Distribution_old;
 		};
 		C01FCF4F08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -953,7 +981,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PREBINDING = NO;
-				SDKROOT = iphonesimulator4.0;
+				SDKROOT = iphoneos4.3;
 			};
 			name = Debug;
 		};
@@ -966,7 +994,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphonesimulator4.0;
+				SDKROOT = iphoneos4.3;
 			};
 			name = Release;
 		};
@@ -978,7 +1006,8 @@
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
 				1D6058950D05DD3E006BFB54 /* Release */,
-				72864DFD1241F12D00FE780C /* Distribution */,
+				7261591C131224AB00D71E8F /* Distribution */,
+				72864DFD1241F12D00FE780C /* Distribution_old */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -988,7 +1017,8 @@
 			buildConfigurations = (
 				C01FCF4F08A954540054247B /* Debug */,
 				C01FCF5008A954540054247B /* Release */,
-				72864DFC1241F12D00FE780C /* Distribution */,
+				7261591B131224AB00D71E8F /* Distribution */,
+				72864DFC1241F12D00FE780C /* Distribution_old */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

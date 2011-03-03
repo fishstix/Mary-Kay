@@ -6,43 +6,43 @@
 	<dict>
 		<key>ClientPickView.nib</key>
 		<data>
-		t8vtfp853QxhuYwIFDEPpNBBYiA=
+		sFxUW0wDa0mU1SHKgQXTNn88O0s=
 		</data>
 		<key>DiscountPickView.nib</key>
 		<data>
-		kta5TSZvQw18Zl1OObzhUO9Yk7M=
+		wNx+alwX6Px4X7MFDh+RB7RBB+g=
 		</data>
 		<key>MKAddEditClientView.nib</key>
 		<data>
-		40a0UJuZRz15u8b7wrDu3pRria4=
+		RX0qSWz/eRhrrq72hpR/MaQ7LOk=
 		</data>
 		<key>MKAddEditPartyView.nib</key>
 		<data>
-		VuGhu8CLtrnxwKRN7lWKGXE7jKc=
+		wtqKDWQiUNiC3AyIwjupFyi0P6Q=
 		</data>
 		<key>MKClientCellView.nib</key>
 		<data>
-		qjbX+Mp+VbcG9XoEGFo9Qjh3Gis=
+		cNMeNQfjkvG84lMCCyrVD/MYWws=
 		</data>
 		<key>MKClientListView.nib</key>
 		<data>
-		iJUyy16e1AsxD3xP45HmXqsoo40=
+		0fMe592nQ+Qn9BDNUoxwndeFN4Y=
 		</data>
 		<key>MKClientView.nib</key>
 		<data>
-		FpEZxT38M9sFR2urYZsQq4DFVF8=
+		3ad9JY8WozSz7Y6Z9hYJB6AQ0QQ=
 		</data>
 		<key>MKHomeVIewController.nib</key>
 		<data>
-		DFoIfxvpKf4c/5W/Zl8cwufwzA4=
+		gpSikjXYvOYoRcCTIhqabaFlZtc=
 		</data>
 		<key>MKPartyCellView.nib</key>
 		<data>
-		oUIs1/psWX1R3Mhv4ebRvXajiSg=
+		yWdxpFUj6qQWF/Y+lfRAZ+3Go/A=
 		</data>
 		<key>MKPartyGuestCellView.nib</key>
 		<data>
-		uuoiCN/T4wCkMZ812m0m9Kn8I+E=
+		38yvj/Cvg79hw8IvXtNTkFkj8UI=
 		</data>
 		<key>MKPartyGuestListView.nib</key>
 		<data>
@@ -50,71 +50,71 @@
 		</data>
 		<key>MKPartyGuestView.nib</key>
 		<data>
-		KOH4enNaAsFXvanii7XMXWbTRCI=
+		eRmJS2l0eIRFa1oy/RbWv8bwFZ8=
 		</data>
 		<key>MKPartyListView.nib</key>
 		<data>
-		tT9Am8yKE6MZLK+b0kkyw9s87pU=
+		HG1Mb4vTuXIIxFHi5a17WImPGZY=
 		</data>
 		<key>MKPartyView.nib</key>
 		<data>
-		ROazjeELhd4bpj7VYLgVTNADPBY=
+		dv7d57QWJ4S8SKtmLBQPz/WVQOY=
 		</data>
 		<key>MKProductCellView.nib</key>
 		<data>
-		AoR70d+n6LqPxrrVeVu5A/4DgII=
+		LPYP199yn8FlBqo9ahxSxStCwhE=
 		</data>
 		<key>MKProductDefaultListView.nib</key>
 		<data>
-		iZ6njukrEhyjpqhrPA0Z0Lmqzsc=
+		Ttv4raFFSiooVKLqeR8Wdg2gMZo=
 		</data>
 		<key>MKProductGroupCellView.nib</key>
 		<data>
-		jnHDdH/damabiZqbHAOGHJXks8c=
+		69IhRUl6HIpgzKBPA7aEuT9eAX0=
 		</data>
 		<key>MKProductListView.nib</key>
 		<data>
-		OQzJ+PMo2YTgdsqk6FeLEtfLrZg=
+		Rz+yU2PVowDlSvYrFE8lEttLoEs=
 		</data>
 		<key>MKProductView.nib</key>
 		<data>
-		5x0VFriKnvt+HBaUvLGGi8cnpQg=
+		dZqdJ2+oKw6AcZbfqU4DiuyO90Y=
 		</data>
 		<key>MKProfileView.nib</key>
 		<data>
-		rZZYhmuxpNpVjeyiwWPbxEZwy5w=
+		UPgPkhxfG7bR9mkVyjILt9vhjlc=
 		</data>
 		<key>MKPurchaseCellView.nib</key>
 		<data>
-		ZzTF62DhFo54G+mavN1dqmHXpKQ=
+		/s1lDejLqUjSyhpFdOzX93fK8D4=
 		</data>
 		<key>MKPurchaseView.nib</key>
 		<data>
-		aCfwHdd00h/fhAv6QpSUd+/KMoo=
+		W/0l8qJbBO+dPCfcSnRR87jAYkw=
 		</data>
 		<key>MKReceiptCellView.nib</key>
 		<data>
-		zKImNO1fq5t6DsOos3z9makihwA=
+		CndjuShOjEwVJQRytR/aFtukYlY=
 		</data>
 		<key>MKReceiptListView.nib</key>
 		<data>
-		hQ2c0JlD/xa9qPAJkZSCw93por8=
+		JfLw3NMkPlwFUsk+EzNcWdLLJps=
 		</data>
 		<key>MKReceiptSettingsView.nib</key>
 		<data>
-		1hq5XEvhVubHZk3GdHugWewfQCg=
+		4SlSpN2PKvK7CJcLeaUUAtFQHiI=
 		</data>
 		<key>MKReceiptView.nib</key>
 		<data>
-		Khdku3F39U4ovXudxNwWwwowc3M=
+		qCXUPSwsACCarFPb6hXZw4ZiEpY=
 		</data>
 		<key>MKSettingsView.nib</key>
 		<data>
-		xJP4FHTBx91+ZxzcjSB/iebJELc=
+		RhAyWpH0h+uuNDDbxW3QtjNtDtU=
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
-		jeTdHyxVIOV2Gl6tok+qgwU6lBA=
+		gqXAitah0CbJj3IBsi1gZmEjvvo=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>PurchasePickView.nib</key>
 		<data>
-		E3OOvur/5sHuvg2RL5TYFqRQtUE=
+		ApkY//QofBIJRmum/Hbjgu2O0Fk=
 		</data>
 		<key>TaxPickView.nib</key>
 		<data>
-		VrVAUdz9DTu6RNurZjyc+TzB2PQ=
+		rcZFzSei5nTPrfd/Oukl0GoKfqg=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>

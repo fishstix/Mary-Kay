@@ -216,6 +216,16 @@ c000000004A9032A50000000000000B51
 t1250964133
 s2897
 
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/../test/mk.db
+c000000004C7F50DE0000000000003800
+t1283412190
+s14336
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/../test/mk.sql
+c000000004C7F50B20000000000003800
+t1283412146
+s14336
+
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/Classes/AsyncImageView.h
 c000000004BED0C60000000000000010C
 t1273826400
@@ -1231,9 +1241,9 @@ t1275757324
 s18733
 
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MKSettingsView.xib
-c000000004C0C90ED0000000000003790
-t1275891949
-s14224
+c000000004C8B1D5B0000000000005F5A
+t1284185435
+s24410
 
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/MainWindow.xib
 c000000004C07457B0000000000009AFE
@@ -1424,6 +1434,10 @@ s5211
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk.db
 t1282100496
 s6144
+
+N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk.sql
+t2
+s0
 
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app/mk_icon.png
 t1273822711
@@ -1709,9 +1723,9 @@ t1272432515
 s8292
 
 N/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/products.csv
-c000000004C0734700000000000004DEC
-t1275540592
-s19948
+c000000004C7F2D8600000000000072A2
+t1283403142
+s29346
 
 N/Users/fishstix/Library/MobileDevice/Provisioning Profiles/4A5104F3-57A1-4256-B41B-B6E6073BB8C1.mobileprovision
 c000000004C02BA6A0000000000001C02
@@ -1732,9 +1746,9 @@ t1273822717
 s8388792
 
 NInfo.plist
-c000000004A904BE40000000000000391
-t1250970596
-s913
+c000000004D5F7C77000000000000037B
+t1298103415
+s891
 
 CCheck dependencies
 r0
@@ -3024,6 +3038,9 @@ xbuild/Debug-iphoneos/MaryKay.app/highintensity.jpeg
 xhighintensity.jpeg
 lSLF07#2@23"Copy highintensity.jpeg295515514#295515514#0(0"0(0#0#66"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/highintensity.jpeg4300725088#481"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/highintensity.jpeg" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"0#
 
+CCpResource build/Debug-iphoneos/MaryKay.app/mk.db ../test/mk.db
+r0
+
 CCpResource build/Debug-iphoneos/MaryKay.app/mk.db mk.db
 s303793295.908427
 e303793296.220942
@@ -3032,6 +3049,9 @@ xCpResource
 xbuild/Debug-iphoneos/MaryKay.app/mk.db
 xmk.db
 lSLF07#2@10"Copy mk.db303793296#303793296#0(0"0(0#0#53"/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/mk.db32932993188560964#468"    cd "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/mk.db" "/Users/fishstix/Documents/Job/Mary Kay/Mary Kay/build/Debug-iphoneos/MaryKay.app"0#
+
+CCpResource build/Debug-iphoneos/MaryKay.app/mk.sql ../test/mk.sql
+r0
 
 CCpResource build/Debug-iphoneos/MaryKay.app/moisturizer.jpg moisturizer.jpg
 s295515514.001051
